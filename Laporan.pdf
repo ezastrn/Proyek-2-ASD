@@ -1,0 +1,185 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R] /Count 2 >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 4 0 R >>
+endobj
+6 0 obj
+<< /Length 9071 >>
+stream
+0.070 0.110 0.200 rg BT /F2 14.5 Tf 110.88 793.89 Td (Laporan Proyek 2 - Algoritma dan Struktur Data) Tj ET
+0.120 0.230 0.540 rg BT /F2 10.5 Tf 135.94 777.89 Td (Sistem Rekomendasi Pengambilan Mata Kuliah Wajib FILKOM) Tj ET
+0.350 0.400 0.480 rg BT /F1 8.6 Tf 87.46 763.89 Td (Kelompok: [Isi Nama & NIM Anggota 3-4 Orang]  |  Repo: https://github.com/ezastrn/Proyek-2-ASD) Tj ET
+0.120 0.230 0.540 RG 1.40 w 48.00 755.89 m 547.28 755.89 l S
+0.120 0.230 0.540 rg BT /F2 11.5 Tf 48.00 739.89 Td (1. Detail Struktur Data yang Digunakan) Tj ET
+0.780 0.830 0.900 RG 0.80 w 48.00 735.89 m 547.28 735.89 l S
+0.150 0.180 0.240 rg BT /F1 9.6 Tf 48.00 722.89 Td (Seluruh struktur data pada proyek ini diimplementasikan dari nol \(from scratch\) tanpa menggunakan Java) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.6 Tf 48.00 709.39 Td (Collections Framework \(tidak ada ArrayList, HashMap, TreeMap, TreeSet, java.util.LinkedList, maupun) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.6 Tf 48.00 695.89 Td (library graph bawaan\). Array standar Java hanya digunakan untuk menampung hasil String.split\(\) saat) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.6 Tf 48.00 682.39 Td (membaca berkas input.) Tj ET
+0.930 0.960 1.000 rg 0.780 0.830 0.900 RG 0.60 w 48.00 650.89 499.00 19.00 re B
+0.120 0.230 0.540 rg BT /F2 8.8 Tf 53.00 656.89 Td (Kelas) Tj ET
+0.120 0.230 0.540 rg BT /F2 8.8 Tf 155.00 656.89 Td (Struktur Data) Tj ET
+0.780 0.830 0.900 RG 0.60 w 150.00 669.89 m 150.00 650.89 l S
+0.120 0.230 0.540 rg BT /F2 8.8 Tf 283.00 656.89 Td (Peran dan Karakteristik) Tj ET
+0.780 0.830 0.900 RG 0.60 w 278.00 669.89 m 278.00 650.89 l S
+1.000 1.000 1.000 rg 0.820 0.860 0.910 RG 0.50 w 48.00 606.89 499.00 44.00 re B
+0.120 0.160 0.220 rg BT /F3 8.5 Tf 53.00 638.89 Td (Node<T> &) Tj ET
+0.120 0.160 0.220 rg BT /F3 8.5 Tf 53.00 626.89 Td (LinkedList<T>) Tj ET
+0.820 0.860 0.910 RG 0.50 w 150.00 650.89 m 150.00 606.89 l S
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 155.00 638.89 Td (Singly Linked List Generik) Tj ET
+0.820 0.860 0.910 RG 0.50 w 278.00 650.89 m 278.00 606.89 l S
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 283.00 638.89 Td (Menyimpan pointer head, tail, dan size. Operasi add\(\) di) Tj ET
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 283.00 626.89 Td (belakang berjalan O\(1\); pencarian contains\(\) berjalan O\(n\);) Tj ET
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 283.00 614.89 Td (dilengkapi sort\(Cmp<T>\) berbasis merge sort.) Tj ET
+1.000 1.000 1.000 rg 0.820 0.860 0.910 RG 0.50 w 48.00 550.89 499.00 56.00 re B
+0.120 0.160 0.220 rg BT /F3 8.5 Tf 53.00 594.89 Td (Course) Tj ET
+0.820 0.860 0.910 RG 0.50 w 150.00 606.89 m 150.00 550.89 l S
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 155.00 594.89 Td (Simpul \(Vertex\) Graf) Tj ET
+0.820 0.860 0.910 RG 0.50 w 278.00 606.89 m 278.00 550.89 l S
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 283.00 594.89 Td (Menyimpan kode, nama, sks, semester, term) Tj ET
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 283.00 582.89 Td (\(Ganjil/Genap/Keduanya\), order, totalDependents, serta dua) Tj ET
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 283.00 570.89 Td (adjacency list: prasyarat \(sisi masuk\) dan lanjutan \(sisi) Tj ET
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 283.00 558.89 Td (keluar\).) Tj ET
+1.000 1.000 1.000 rg 0.820 0.860 0.910 RG 0.50 w 48.00 494.89 499.00 56.00 re B
+0.120 0.160 0.220 rg BT /F3 8.5 Tf 53.00 538.89 Td (CourseGraph) Tj ET
+0.820 0.860 0.910 RG 0.50 w 150.00 550.89 m 150.00 494.89 l S
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 155.00 538.89 Td (Directed Acyclic Graph) Tj ET
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 155.00 526.89 Td (\(DAG\)) Tj ET
+0.820 0.860 0.910 RG 0.50 w 278.00 550.89 m 278.00 494.89 l S
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 283.00 538.89 Td (Merepresentasikan graf prasyarat berbasis adjacency list) Tj ET
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 283.00 526.89 Td (\(LinkedList buatan sendiri\). Menyediakan traversal DFS untuk) Tj ET
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 283.00 514.89 Td (prasyarat berantai \(transitif\) dan perhitungan total MK) Tj ET
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 283.00 502.89 Td (lanjutan.) Tj ET
+1.000 1.000 1.000 rg 0.820 0.860 0.910 RG 0.50 w 48.00 462.89 499.00 32.00 re B
+0.120 0.160 0.220 rg BT /F3 8.5 Tf 53.00 482.89 Td (Cmp<T> &) Tj ET
+0.120 0.160 0.220 rg BT /F3 8.5 Tf 53.00 470.89 Td (PrioritasMK) Tj ET
+0.820 0.860 0.910 RG 0.50 w 150.00 494.89 m 150.00 462.89 l S
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 155.00 482.89 Td (Komparator Kustom) Tj ET
+0.820 0.860 0.910 RG 0.50 w 278.00 494.89 m 278.00 462.89 l S
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 283.00 482.89 Td (Mendefinisikan aturan prioritas pengurutan daftar MK) Tj ET
+0.120 0.160 0.220 rg BT /F1 8.8 Tf 283.00 470.89 Td (rekomendasi tanpa menggunakan java.util.Comparator.) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.6 Tf 48.00 452.89 Td (Selain graf prasyarat, LinkedList<T> buatan sendiri juga dipakai untuk menyimpan daftar MK lulus mahasiswa) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.6 Tf 48.00 439.39 Td (\(LinkedList<String>\), daftar MK yang bisa diambil \(LinkedList<Course>\), serta pasangan daftar MK yang) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.6 Tf 48.00 425.89 Td (belum bisa diambil beserta daftar alasannya \(dua linked list sejajar\).) Tj ET
+0.120 0.230 0.540 rg BT /F2 11.5 Tf 48.00 403.39 Td (2. Detail Algoritma yang Digunakan) Tj ET
+0.780 0.830 0.900 RG 0.80 w 48.00 399.39 m 547.28 399.39 l S
+0.120 0.230 0.540 rg BT /F2 9.5 Tf 52.00 386.39 Td (-) Tj ET
+0.100 0.140 0.220 rg BT /F2 9.5 Tf 60.00 386.39 Td (Langkah 1 - Pembacaan Data & Pembangunan Graf:) Tj /F1 9.5 Tf 0.150 0.180 0.240 rg ( Berkas matakuliah.csv dibaca baris demi baris \(pemisah) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 373.19 Td (';', UTF-8, pembersihan BOM\) menjadi simpul Course pada CourseGraph. Berkas prasyarat.csv \(format) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 359.99 Td (prasyarat;matakuliah\) dibaca untuk menambahkan sisi berarah: mk.prasyarat.add\(pre\) dan) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 346.79 Td (pre.lanjutan.add\(mk\). Berkas mhs_xx.txt dibaca untuk memperoleh semester_berikutnya dan daftar MK) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 333.59 Td (lulus \(tanpa duplikasi\).) Tj ET
+0.120 0.230 0.540 rg BT /F2 9.5 Tf 52.00 317.89 Td (-) Tj ET
+0.100 0.140 0.220 rg BT /F2 9.5 Tf 60.00 317.89 Td (Langkah 2 - Perhitungan Total MK Lanjutan \(DFS\):) Tj /F1 9.5 Tf 0.150 0.180 0.240 rg ( Untuk setiap simpul MK, dilakukan Depth-First Search) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 304.69 Td (\(DFS\) menyusuri sisi keluar \(lanjutan\) dengan daftar visited \(LinkedList<String>\) untuk menghitung) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 291.49 Td (totalDependents \(jumlah seluruh MK lanjutan langsung maupun tidak langsung yang bergantung pada MK) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 278.29 Td (tersebut\).) Tj ET
+0.120 0.230 0.540 rg BT /F2 9.5 Tf 52.00 262.59 Td (-) Tj ET
+0.100 0.140 0.220 rg BT /F2 9.5 Tf 60.00 262.59 Td (Langkah 3 - Klasifikasi MK & Prasyarat Berantai \(Post-Order DFS\):) Tj /F1 9.5 Tf 0.150 0.180 0.240 rg ( Untuk setiap MK pada graf: \(a\)) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 249.39 Td (lewati jika sudah lulus atau tidak ditawarkan pada semester_berikutnya \('Keduanya' berlaku untuk) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 236.19 Td (Ganjil dan Genap\); \(b\) khusus Skripsi \(SKR\), periksa seluruh MK wajib lain selain SKR; SKR hanya bisa) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 222.99 Td (diambil jika seluruh MK wajib lain sudah lulus; \(c\) untuk MK reguler, jalankan post-order DFS pada) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 209.79 Td (sisi prasyarat \(getMissingPrerequisites\): jika prasyarat pre belum lulus, telusuri dulu prasyarat) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 196.59 Td (milik pre sebelum menambahkan pre ke daftar missing. Urutan hasil otomatis dimulai dari prasyarat) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 183.39 Td (paling awal hingga prasyarat langsung \(contoh: PAW -> belum lulus SO, IMK\). Jika missing kosong, MK) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 170.19 Td (masuk daftar bisa diambil.) Tj ET
+0.120 0.230 0.540 rg BT /F2 9.5 Tf 52.00 154.49 Td (-) Tj ET
+0.100 0.140 0.220 rg BT /F2 9.5 Tf 60.00 154.49 Td (Langkah 4 - Pengurutan Rekomendasi \(Merge Sort pada Linked List\):) Tj /F1 9.5 Tf 0.150 0.180 0.240 rg ( Daftar MK yang bisa diambil) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 141.29 Td (diurutkan menggunakan merge sort buatan sendiri: list dibelah di tengah dengan teknik slow/fast) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 128.09 Td (pointer, diurutkan rekursif, lalu digabungkan \(merge\) memakai node dummy. Algoritma ini stabil,) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 114.89 Td (berkompleksitas O\(n log n\), dengan ruang rekursi O\(log n\). Kriteria urutan \(PrioritasMK\): \(1\)) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 101.69 Td (totalDependents terbanyak, \(2\) semester rencana paling awal, \(3\) SKS terbesar, \(4\) urutan pada) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 88.49 Td (matakuliah.csv.) Tj ET
+0.450 0.500 0.580 rg BT /F1 8 Tf 502.28 24.00 Td (Halaman 1 / 2) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 5676 >>
+stream
+0.120 0.230 0.540 rg BT /F2 11.5 Tf 48.00 787.89 Td (3. Analisis Kompleksitas) Tj ET
+0.780 0.830 0.900 RG 0.80 w 48.00 783.89 m 547.28 783.89 l S
+0.150 0.180 0.240 rg BT /F1 9.6 Tf 48.00 770.89 Td (Misalkan V = jumlah MK \(37\), E = jumlah relasi prasyarat \(19\), dan L = jumlah MK lulus. Pembangunan graf) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.6 Tf 48.00 757.39 Td (memerlukan O\(V + E*V\) karena pencarian simpul linear pada linked list. Perhitungan totalDependents dan) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.6 Tf 48.00 743.89 Td (klasifikasi post-order DFS berjalan paling buruk O\(V*\(V + E\)*\(V + L\)\) karena pengecekan keanggotaan linear) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.6 Tf 48.00 730.39 Td (pada visited dan lulus. Pengurutan merge sort berjalan O\(V log V\). Untuk ukuran kurikulum V = 37,) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.6 Tf 48.00 716.89 Td (keseluruhan eksekusi selesai dalam hitungan milidetik.) Tj ET
+0.120 0.230 0.540 rg BT /F2 11.5 Tf 48.00 694.39 Td (4. Hasil Pengujian) Tj ET
+0.780 0.830 0.900 RG 0.80 w 48.00 690.39 m 547.28 690.39 l S
+0.150 0.180 0.240 rg BT /F1 9.6 Tf 48.00 677.39 Td (Contoh keluaran program pada berkas mhs_01.txt \(semester_berikutnya=genap, lulus 7 MK semester 1\):) Tj ET
+0.970 0.980 0.990 rg 0.850 0.890 0.940 RG 0.60 w 48.00 421.89 499.28 243.00 re B
+0.120 0.230 0.540 rg 48.00 421.89 3.00 243.00 re f
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 652.89 Td (Semester berikutnya: genap) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 641.89 Td (Daftar MK yang bisa diambil:) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 630.89 Td ( 1. SO    Sistem Operasi                                  5 SKS) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 619.89 Td ( 2. AL    Aljabar Linear                                  2 SKS) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 608.89 Td ( 3. PLAN  Pemrograman Lanjut                              5 SKS) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 597.89 Td ( 4. BD    Basis Data                                      3 SKS) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 586.89 Td ( 5. MD    Matematika Diskret                              2 SKS) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 575.89 Td ( 6. EP    Etika Profesi                                   2 SKS) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 564.89 Td ( 7. BING  Bahasa Inggris                                  2 SKS) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 553.89 Td ( 8. PANC  Pancasila                                       2 SKS) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 542.89 Td ( 9. KWU   Kewirausahaan                                   2 SKS) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 531.89 Td (10. KWN   Kewarganegaraan                                 2 SKS) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 520.89 Td (11. CAP   Capstone Project                                3 SKS) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 509.89 Td (Total: 30 SKS) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 498.89 Td () Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 487.89 Td (Daftar MK yang belum bisa diambil semester depan:) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 476.89 Td (PAW: belum lulus SO, IMK) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 465.89 Td (DAA: belum lulus PLAN, ASD) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 454.89 Td (KI: belum lulus SO, JK) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 443.89 Td (KALJ: belum lulus AL, KA) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 432.89 Td (SKR: belum lulus semua MK wajib \(29 MK belum lulus: BD, PLAN, SO, ..., PKL\)) Tj ET
+0.120 0.230 0.540 rg BT /F2 9.5 Tf 52.00 411.89 Td (-) Tj ET
+0.100 0.140 0.220 rg BT /F2 9.5 Tf 60.00 411.89 Td (mhs_02.txt \(ganjil, lulus 20 MK\):) Tj /F1 9.5 Tf 0.150 0.180 0.240 rg ( Bisa diambil: PAPB, MPPI, BIND, PKL \(12 SKS\). Belum bisa: JK \(SO\),) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 398.69 Td (IMK \(SO\), JN \(SO, JK\), KG \(SO, IMK\), JST \(KALJ\), SI \(KALJ\), dan SKR \(16 MK wajib belum lulus\).) Tj ET
+0.120 0.230 0.540 rg BT /F2 9.5 Tf 52.00 382.99 Td (-) Tj ET
+0.100 0.140 0.220 rg BT /F2 9.5 Tf 60.00 382.99 Td (mhs_03.txt \(ganjil, lulus 28 MK\):) Tj /F1 9.5 Tf 0.150 0.180 0.240 rg ( Bisa diambil: PAPB, JN, JST, MPPI, KG, SI, BIND, PKL \(22 SKS\). Belum) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 369.79 Td (bisa: SKR \(8 MK wajib belum lulus: PAPB, JN, KG, JST, SI, MPPI, BIND, PKL\).) Tj ET
+0.120 0.230 0.540 rg BT /F2 9.5 Tf 52.00 354.09 Td (-) Tj ET
+0.100 0.140 0.220 rg BT /F2 9.5 Tf 60.00 354.09 Td (Uji Kasus Batas Skripsi \(lulus seluruh 36 MK wajib\):) Tj /F1 9.5 Tf 0.150 0.180 0.240 rg ( SKR \(6 SKS\) masuk daftar bisa diambil dan daftar) Tj ET
+0.150 0.180 0.240 rg BT /F1 9.5 Tf 60.00 340.89 Td (belum bisa diambil kosong \(\(tidak ada\)\).) Tj ET
+0.120 0.230 0.540 rg BT /F2 11.5 Tf 48.00 319.19 Td (5. Cara Menjalankan Program) Tj ET
+0.780 0.830 0.900 RG 0.80 w 48.00 315.19 m 547.28 315.19 l S
+0.970 0.980 0.990 rg 0.850 0.890 0.940 RG 0.60 w 48.00 272.19 499.28 34.00 re B
+0.120 0.230 0.540 rg 48.00 272.19 3.00 34.00 re f
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 294.19 Td (javac -d out src/*.java) Tj ET
+0.090 0.120 0.180 rg BT /F3 8.0 Tf 57.00 283.19 Td (java -cp out Main data/matakuliah.csv data/prasyarat.csv data/mhs_01.txt) Tj ET
+0.350 0.400 0.480 rg BT /F1 8.8 Tf 48.00 262.19 Td (Catatan: Ganti argumen ketiga dengan data/mhs_02.txt atau data/mhs_03.txt untuk menguji skenario mahasiswa lain. MK) Tj ET
+0.350 0.400 0.480 rg BT /F1 8.8 Tf 48.00 250.19 Td (yang tidak ditawarkan pada semester berikutnya tidak ditampilkan pada keluaran.) Tj ET
+0.450 0.500 0.580 rg BT /F1 8 Tf 502.28 24.00 Td (Halaman 2 / 2) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 4 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 8 0 R >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000106 00000 n 
+0000000208 00000 n 
+0000000303 00000 n 
+0000000366 00000 n 
+0000000415 00000 n 
+0000009538 00000 n 
+0000009690 00000 n 
+0000015418 00000 n 
+trailer
+<< /Size 10 /Root 5 0 R >>
+startxref
+15570
+%%EOF
