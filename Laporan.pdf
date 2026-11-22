@@ -115,7 +115,7 @@ endobj
 << /Type /Page /Parent 4 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 1 0 R /F2 2 0 R /F3 3 0 R >> >> /Contents 6 0 R >>
 endobj
 8 0 obj
-<< /Length 4789 >>
+<< /Length 4953 >>
 stream
 0 0 0 rg BT /F2 11 Tf 52.00 793.89 Td (3. Analisis Kompleksitas) Tj ET
 0 0 0 rg BT /F1 9.6 Tf 52.00 779.89 Td (Misalkan V = jumlah MK \(37\), E = jumlah relasi prasyarat \(19\), dan L = jumlah MK lulus. Pembangunan graf) Tj ET
@@ -157,11 +157,13 @@ stream
 0 0 0 rg BT /F2 9.5 Tf 66.00 368.09 Td (Uji Kasus Batas Skripsi \(lulus seluruh 36 MK wajib\):) Tj /F1 9.5 Tf ( SKR \(6 SKS\) masuk daftar bisa diambil dan daftar) Tj ET
 0 0 0 rg BT /F1 9.5 Tf 66.00 354.89 Td (belum bisa diambil kosong \(\(tidak ada\)\).) Tj ET
 0 0 0 rg BT /F2 11 Tf 52.00 333.19 Td (5. Cara Menjalankan Program) Tj ET
-1.000 1.000 1.000 rg 0.450 0.450 0.450 RG 0.50 w 52.00 291.19 491.28 32.00 re B
-0 0 0 rg BT /F3 8.0 Tf 60.00 312.19 Td (javac -d out src/*.java) Tj ET
-0 0 0 rg BT /F3 8.0 Tf 60.00 301.19 Td (java -cp out Main data/matakuliah.csv data/prasyarat.csv data/mhs_01.txt) Tj ET
-0 0 0 rg BT /F1 8.8 Tf 52.00 281.19 Td (Catatan: Ganti argumen ketiga dengan data/mhs_02.txt atau data/mhs_03.txt untuk menguji skenario mahasiswa lain.) Tj ET
-0 0 0 rg BT /F1 8.8 Tf 52.00 269.19 Td (MK yang tidak ditawarkan pada semester berikutnya tidak ditampilkan pada keluaran.) Tj ET
+1.000 1.000 1.000 rg 0.450 0.450 0.450 RG 0.50 w 52.00 269.19 491.28 54.00 re B
+0 0 0 rg BT /F3 8.0 Tf 60.00 312.19 Td (git clone https://github.com/ezastrn/Proyek-2-ASD.git) Tj ET
+0 0 0 rg BT /F3 8.0 Tf 60.00 301.19 Td (cd Proyek-2-ASD) Tj ET
+0 0 0 rg BT /F3 8.0 Tf 60.00 290.19 Td (javac -d out src/*.java) Tj ET
+0 0 0 rg BT /F3 8.0 Tf 60.00 279.19 Td (java -cp out Main data/matakuliah.csv data/prasyarat.csv data/mhs_01.txt) Tj ET
+0 0 0 rg BT /F1 8.8 Tf 52.00 259.19 Td (Catatan: Ganti argumen ketiga dengan data/mhs_02.txt atau data/mhs_03.txt untuk menguji skenario mahasiswa lain.) Tj ET
+0 0 0 rg BT /F1 8.8 Tf 52.00 247.19 Td (MK yang tidak ditawarkan pada semester berikutnya tidak ditampilkan pada keluaran.) Tj ET
 0 0 0 rg BT /F1 8.5 Tf 277.64 24.00 Td (2 / 2) Tj ET
 endstream
 endobj
@@ -179,9 +181,9 @@ xref
 0000000415 00000 n 
 0000009051 00000 n 
 0000009203 00000 n 
-0000014044 00000 n 
+0000014208 00000 n 
 trailer
 << /Size 10 /Root 5 0 R >>
 startxref
-14196
+14360
 %%EOF

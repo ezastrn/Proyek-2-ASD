@@ -39,9 +39,27 @@ Seluruh struktur data dibangun dari nol tanpa menggunakan Java Collections Frame
 ```
 
 ## Cara Menjalankan
-```bash
-javac -d out src/*.java
-java -cp out Main data/matakuliah.csv data/prasyarat.csv data/mhs_01.txt
-```
 
-Ganti `data/mhs_01.txt` dengan `data/mhs_02.txt` atau `data/mhs_03.txt` untuk menguji kasus mahasiswa lainnya. Detail struktur data dan algoritma dijelaskan lengkap pada [Laporan.pdf](Laporan.pdf).
+1. **Clone repository:**
+   ```bash
+   git clone https://github.com/ezastrn/Proyek-2-ASD.git
+   cd Proyek-2-ASD
+   ```
+
+2. **Kompilasi seluruh source code Java:**
+   ```bash
+   javac -d out src/*.java
+   ```
+
+3. **Jalankan program dengan 3 berkas input (`matakuliah.csv`, `prasyarat.csv`, `mhs_xx.txt`):**
+   ```bash
+   java -cp out Main data/matakuliah.csv data/prasyarat.csv data/mhs_01.txt
+   ```
+
+   Untuk menguji kasus mahasiswa lainnya, ganti argumen ketiga dengan `data/mhs_02.txt` atau `data/mhs_03.txt`:
+   ```bash
+   java -cp out Main data/matakuliah.csv data/prasyarat.csv data/mhs_02.txt
+   java -cp out Main data/matakuliah.csv data/prasyarat.csv data/mhs_03.txt
+   ```
+
+Detail struktur data dan algoritma dijelaskan lengkap pada [Laporan.pdf](Laporan.pdf).
