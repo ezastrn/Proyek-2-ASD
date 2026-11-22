@@ -2,6 +2,13 @@
 
 Program rekomendasi pengambilan mata kuliah wajib berdasarkan peta kurikulum FILKOM, daftar prasyarat, serta riwayat kelulusan mahasiswa.
 
+## Anggota Kelompok
+| No | Nama | NIM |
+|----|------|-----|
+| 1 | Faeyza Safa Izz Deyardi | 255150207111060 |
+| 2 | Syamil Fadhlurrahman | 255150200111067 |
+| 3 | Naufal Insan Annafi | 255150200111075 |
+
 ## Struktur Data & Algoritma (Buatan Sendiri)
 Seluruh struktur data dibangun dari nol tanpa menggunakan Java Collections Framework (`ArrayList`, `HashMap`, `TreeMap`, `TreeSet`, dsb.):
 - **`LinkedList<T>` & `Node<T>`**: Singly linked list generik dengan pointer `head` dan `tail` ($O(1)$ append), pencarian linear, serta **Merge Sort** ($O(n \log n)$, stabil).
